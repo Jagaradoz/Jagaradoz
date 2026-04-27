@@ -33,6 +33,13 @@
 - 🛒 **Ecommerce Sales Analysis** - EDA notebook uncovering revenue trends and customer insights.
 - ♟️ **Chess Pattern Intelligence** - EDA Statistical analysis of openings and first‑move advantage.
 
+## Philosophy
+Principles that guide how I think and act:
+- Life improves when actions align with intent  
+- Direction is more important than speed  
+- Discipline is choosing the future over comfort  
+- Consistency turns effort into identity  
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phanupong-ruksanit-90a4b6360)
