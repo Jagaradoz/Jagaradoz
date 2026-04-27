@@ -39,5 +39,5 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jagaradoz@gmail.com)
 
 <p align="center">
-  <i>Built with 🤖 AI & Precision Architecture</i>
+  <i>For a better life, you need to change.</i>
 </p>
