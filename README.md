@@ -13,9 +13,8 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-- 🏛️ **Software Architect**
-- 🤖 **AI Engineer**
 - 🌐 **Full Stack Engineer**
+- 🤖 **AI Engineer**
 - 📱 **Mobile Developer**
 - 🎮 **Roblox Developer**
 
