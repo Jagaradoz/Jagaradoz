@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jagaradoz (Ja)
 
-📍 **Bangkok, Thailand** | 🤖 **AI-Driven Architect** | 🚀 **Full-Stack & Roblox**
+📍 **Bangkok, Thailand** | 🤖 **AI-Driven Architect** | 🚀 **Full-Stack & Apps**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
