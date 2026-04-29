@@ -4,7 +4,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
@@ -16,9 +15,6 @@
 - 🌐 **Full Stack Engineer**
 - 🤖 **AI Engineer**
 - 📱 **Desktop/Mobile Developer**
-- 🎮 **Roblox Developer**
-
-
 
 > I architect systems where AI and human intelligence collaborate. My focus is on the structural integrity and scalability of systems, integrating AI to expedite the path from logical design to functional scale.
 
