@@ -15,7 +15,7 @@
 
 - 🌐 **Full Stack Engineer**
 - 🤖 **AI Engineer**
-- 📱 **Mobile Developer**
+- 📱 **Desktop/Mobile Developer**
 - 🎮 **Roblox Developer**
 
 
